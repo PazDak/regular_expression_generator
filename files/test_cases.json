@@ -22,7 +22,7 @@
     "cve_id": "CVE-2020-3900",
     "cvss": 8.8,
     "version_ending": "6.2",
-    "test_strings": [a
+    "test_strings": [
       {
         "test_string": "11.4",
         "expected_results": false
